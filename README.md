@@ -6,3 +6,8 @@
 
 ##### Columns:
 ##### App | Category | Rating | Reviews | Size | Installs | Type | Price | Content Rating | Genres | Last Updated | Current Ver | Android Ver
+
+
+
+
+
