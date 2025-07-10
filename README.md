@@ -27,3 +27,18 @@
 
 <img width="1554" height="1378" alt="Untitled" src="https://github.com/user-attachments/assets/410d5bd0-00b3-4108-a0a8-2f2f956e4e96" />
 
+
+
+#### The following plot shows that apps sizing between 0 to 100 Mb are very low quality and perhaps thats why they have few number of downloads in comparison with others.
+#### Same for the apps sizing between 100 Mb to 1 Gb!
+#### Games like PubG or Call of Duty take more than 1 Gb to be downloaded however Since they have high quality people don't think about the size and download number rizes to the highest value.
+#### Although apps sizing more than 10 Gb have high quality, it's not that reasonable and profitable to spend 10 Gb for an app, thats their number of download drops dramatically.
+
+<img width="1220" height="463" alt="Untitled-1" src="https://github.com/user-attachments/assets/e386479e-f11f-4839-948b-5742504ae5e0" />
+
+
+#### Few People are looking for +18 apps on GooglePlay
+#### As an app producer is it more likely for your app to be downlaoded if you make an app for +10 age population
+#### Teens are the greatest population on which GooglePlay must invest and work. 
+
+<img width="1220" height="463" alt="Untitled" src="https://github.com/user-attachments/assets/04679559-8f00-43e6-be2c-175dd9b1918c" />
