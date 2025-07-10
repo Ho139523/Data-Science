@@ -5,8 +5,9 @@
 
 
 ##### Columns:
-##### App | Category | Rating | Reviews | Size | Installs | Type | Price | Content Rating | Genres | Last Updated | Current Ver | Android Ver
+##### App (name) | Category | Rating | Reviews | Size (On Disk) | Installs (number of installs) | Type | Price | Content Rating | Genres | Last Updated | Current Ver | Android Ver
 
 
+### Some results been infered:
 
 <img width="563" height="432" alt="Untitled" src="https://github.com/user-attachments/assets/927367a1-f4ab-4191-96a0-0cdd741136e5" />
