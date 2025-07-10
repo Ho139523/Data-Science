@@ -12,11 +12,18 @@
 
 
 
-#### This means that most of the app are for free in GooglePlay
+#### The following plot means that most of the app are for free in GooglePlay
 <img width="563" height="432" alt="Untitled" src="https://github.com/user-attachments/assets/927367a1-f4ab-4191-96a0-0cdd741136e5" />
 
-#### This plot says that there are few Adult and +10 apps
+#### The following plot says that there are few Adult and +10 apps
 #### most of the apps are for everyone
 
 <img width="1247" height="448" alt="Untitled" src="https://github.com/user-attachments/assets/2fbbabe0-499f-47e3-980e-e36183b112eb" />
+
+
+
+#### In this plot we can see that most of the apps installed and reviewed are for the Game category however app developers
+#### have put all their efforts and energy into the family subset. the same result for communication!
+
+<img width="1554" height="1378" alt="Untitled" src="https://github.com/user-attachments/assets/410d5bd0-00b3-4108-a0a8-2f2f956e4e96" />
 
